@@ -8,3 +8,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+
+#### 네이버 웹툰 앱 프로젝트
+https://github.com/Merhong/final-back
