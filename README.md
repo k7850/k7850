@@ -13,5 +13,8 @@
 </div>
 
 
-#### 네이버 웹툰 앱 프로젝트
+#### 네이버 웹툰 앱 (팀 프로젝트)
 https://github.com/Merhong/final-back
+
+#### 어항 관리 앱 (개인 프로젝트)
+https://github.com/k7850/fishfront
