@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-### 구인구직 플랫폼 팀프로젝트
+#### 구인구직 플랫폼 팀프로젝트
 
 Java Spring HTML CSS Bootstrap MySQL 
 
