@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-#### 구인구직 플랫폼 팀프로젝트
+#### 구인구직 플랫폼 (팀프로젝트)
 
 Java Spring HTML CSS Bootstrap MySQL 
 
@@ -25,7 +25,7 @@ https://github.com/k7850/teamproject1
 <br/>
 <br/>
   
-#### 네이버 웹툰 팀프로젝트
+#### 네이버 웹툰 (팀프로젝트)
 
 Java Spring Flutter HTML CSS Bootstrap MySQL
 
@@ -36,7 +36,7 @@ https://github.com/Merhong/final-back
 <br/>
 <br/>
 
-#### 어항 관리 애플리케이션 개인프로젝트
+#### 어항 관리 애플리케이션 (개인프로젝트)
 
 Java Spring Flutter MySQL
 
