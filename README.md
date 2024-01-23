@@ -1,4 +1,4 @@
-### 
+### 김지원 포트폴리오
 
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -13,8 +13,17 @@
 </div>
 
 
-#### 네이버 웹툰 앱 (팀 프로젝트)
+#### 구인구직 플랫폼 팀프로젝트
+Java Spring HTML CSS Bootstrap MySQL
+서버 사이드 랜더링 웹프로젝트
+https://github.com/k7850/teamproject1
+
+#### 네이버 웹툰 팀프로젝트
+Java Spring Flutter HTML CSS Bootstrap MySQL
+Android, IOS 크로스플랫폼 애플리케이션
 https://github.com/Merhong/final-back
 
-#### 어항 관리 앱 (개인 프로젝트)
+#### 어항 관리 애플리케이션 개인프로젝트
+Java Spring Flutter MySQL
+Android, IOS 크로스플랫폼 애플리케이션
 https://github.com/k7850/fishfront
