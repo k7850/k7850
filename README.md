@@ -14,33 +14,38 @@
 <br/>
 <br/>
 
-#### 구인구직 플랫폼 (팀프로젝트)
+#### 구인구직 플랫폼
 
 Java Spring HTML CSS Bootstrap MySQL 
 
-서버 사이드 랜더링 웹프로젝트
+- 팀 프로젝트 (5인)
+- 2023.09
+- Java Spring HTML CSS Bootstrap MySQL
+- 서버 사이드 랜더링 웹 프로젝트
 
 https://github.com/k7850/teamproject1
 
 <br/>
 <br/>
   
-#### 네이버 웹툰 (팀프로젝트)
+#### 네이버 웹툰
 
-Java Spring Flutter HTML CSS Bootstrap MySQL
-
-Android, IOS 크로스플랫폼 애플리케이션
+- 팀 프로젝트 (5인)
+- 2023.11
+- Java Spring Flutter HTML CSS Bootstrap MySQL
+- Android, IOS 크로스플랫폼 애플리케이션
 
 https://github.com/Merhong/final-back
 
 <br/>
 <br/>
 
-#### 어항 관리 애플리케이션 (개인프로젝트)
+#### 어항 관리 애플리케이션
 
-Java Spring Flutter MySQL
-
-Android, IOS 크로스플랫폼 애플리케이션
+- 개인 프로젝트 (1인)
+- 2023.12
+- Java Spring Flutter MySQL
+- Android, IOS 크로스플랫폼 애플리케이션
 
 https://github.com/k7850/fishfront
 
