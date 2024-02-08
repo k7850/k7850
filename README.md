@@ -16,7 +16,7 @@
 
 #### 구인구직 플랫폼
 
-Java Spring HTML CSS Bootstrap MySQL 
+https://github.com/Merhong/final-back
 
 - 팀 프로젝트 (5인)
 - 2023.09
@@ -28,24 +28,24 @@ https://github.com/k7850/teamproject1
 <br/>
 <br/>
   
-#### 네이버 웹툰
+#### 네이버 웹툰 앱 클론코딩
+
+https://github.com/Merhong/final-back
 
 - 팀 프로젝트 (5인)
 - 2023.11
 - Java Spring Flutter HTML CSS Bootstrap MySQL
 - Android, IOS 크로스플랫폼 애플리케이션
 
-https://github.com/Merhong/final-back
-
 <br/>
 <br/>
 
-#### 어항 관리 애플리케이션
+#### 어항 관리 앱
+
+https://github.com/k7850/fishfront
 
 - 개인 프로젝트 (1인)
 - 2023.12
 - Java Spring Flutter MySQL
 - Android, IOS 크로스플랫폼 애플리케이션
-
-https://github.com/k7850/fishfront
 
