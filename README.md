@@ -15,14 +15,13 @@
 <br/>
 
 #### 구인구직 플랫폼
-https://github.com/Merhong/final-back
+https://github.com/k7850/teamproject1
 
 - 팀 프로젝트 (5인)
 - 2023.09
 - Java Spring HTML CSS Bootstrap MySQL
 - 서버 사이드 랜더링 웹 프로젝트
 
-https://github.com/k7850/teamproject1
 
 <br/>
 <br/>
